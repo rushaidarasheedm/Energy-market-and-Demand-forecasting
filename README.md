@@ -7,7 +7,7 @@ Key Features:
 
 Cleaned and reshaped raw KAPSARC energy data into quarterly time-series format
 
-Built forecasting models (ARIMA, Prophet) to project demand for 2025–2026
+Built forecasting models (Prophet) to project demand for 2025–2026
 
 Conducted scenario analysis (e.g., +10% demand growth in Asia) to assess business impact
 
